@@ -16,9 +16,7 @@
 </p>
 
 <p align="center">
-  <p align="center">
-<a href="https://github.com/hafizaliakbar786"><img src="https://img.shields.io/badge/GitHub-hafizaliakbar786-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a><a href="mailto:hafizaliakbr786@gmail.com"><img src="https://img.shields.io/badge/Email-hafizaliakbr786%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://www.linkedin.com/in/hafizaliakbar786/"><img src="https://img.shields.io/badge/LinkedIn-hafizaliakbar786-0A66C2?style=flat" alt="LinkedIn" /></a>
-</p>
+<a href="https://github.com/hafizaliakbar786"><img src="https://img.shields.io/badge/GitHub-hafizaliakbar786-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;<a href="mailto:hafizaliakbr786@gmail.com"><img src="https://img.shields.io/badge/Email-hafizaliakbr786%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hafizaliakbar786/"><img src="https://img.shields.io/badge/LinkedIn-hafizaliakbar786-0A66C2?style=flat" alt="LinkedIn" /></a>
 </p>
 
 ## Snapshot
