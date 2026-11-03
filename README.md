@@ -33,6 +33,12 @@
 - Improving my programming and problem-solving skills.
 - Writing clear project documentation.
 
+- ## Projects spotlight
+
+| Project | Description | Links |
+|---|---|---|
+| FreelancersMail | A private email platform developed with a collaborator, live at freelancersmail.com. | [Live Demo](https://freelancersmail.com) · Private source |
+
 ---
 
 <p align="center">
