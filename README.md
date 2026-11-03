@@ -1,11 +1,11 @@
 <!-- Name banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:0ea5e9&height=140&text=Hafiz%20Ali%20Akbar&fontSize=48&fontColor=ffffff&fontAlignY=55" width="100%" alt="Hafiz Ali Akbar" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,100:22c55e&height=140&text=Hafiz%20Ali%20Akbar&fontSize=48&fontColor=ffffff&fontAlignY=55" width="100%" alt="Hafiz Ali Akbar" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&height=70&repeat=true&lines=BS+IT+Final-Year+Student;Aspiring+Cybersecurity+Professional;Exploring+Data+Security;Learning+by+Building+Practical+Projects" width="100%" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=22C55E&center=true&vCenter=true&width=750&height=70&repeat=true&lines=BS+IT+Final-Year+Student;Aspiring+Cybersecurity+Professional;Exploring+Data+Security;Learning+by+Building+Practical+Projects" width="100%" alt="Animated introduction" />
 </p>
 
 <h1 align="center">Hi, I’m Hafiz Ali Akbar 👋</h1>
